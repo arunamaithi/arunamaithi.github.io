@@ -13,7 +13,7 @@ relative_permalinks: false
 # Setup
 title:            Arun Amaithi Rajan
 #tagline:          'A Jekyll theme'
-description:      Ph.D Candidate, CEG, AU
+description:      Ph.D Scholar, CEG, AU
 #description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              "https://arunamaithi.github.io/"
 baseurl:          "" 

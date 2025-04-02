@@ -27,25 +27,36 @@ I have contributed to various research articles in high-end journals and confere
 
 <!-- revolve around novel applications of acoustic sensing, as well as sensor security. -->
 
-#### I'm actively seeking full-time opportunities in industry R&D or senior security engineering roles. If there are any openings in firmware and embedded security, please feel free to reach out. .
+#### I'm actively seeking full-time opportunities in industry R&D or senior security engineering roles. If there are any openings in firmware and embedded security, please feel free to reach out .
 
-### [Resume](https://arunamaithi.github.io/cv.pdf)
+<!-- ### [Resume](https://arunamaithi.github.io/cv.pdf) -->
 
-<!-- , [Google Scholar Profile](https://scholar.google.com/citations?user=RZSZVf8AAAAJ&hl=en), [LinkedIn Profile](https://www.linkedin.com/in/arunamaithi/) -->
-<a href="https://www.linkedin.com/in/arunamaithi/">
-  <!-- <i class="fa fa-linkedin fa-2x"></i> -->
+<a style="padding-left:25px;" href="{{ site.url }}/cv.pdf">
+  <i class="fas fa-file-user fa-2x"></i>
+</a> 
+
+<!-- <a href="https://www.linkedin.com/in/arunamaithi/">
   <i class="fa-brands fa-linkedin fa-2x"></i>
 </a>
-<!-- <a style="padding-left:25px;" href="{{ site.url }}/cv.pdf">
-  <i class="fa fa-address-card fa-2x"></i>
-</a> -->
+
 <a style="padding-left:25px" href="https://scholar.google.com/citations?user=RZSZVf8AAAAJ&hl=en">
   <i class="fa-brands fa-google-scholar fa-2x"></i>
-</a>
-<!-- <a style="padding-left:25px;" href="https://twitter.com/soundarya05"> -->
-  <!-- <i class="fa fa-twitter fa-2x"></i> -->
-  <!-- <i class="fa-brands fa-square-x-twitter fa-2x"></i> -->
-<!-- </a> -->
+</a> -->
+
+
+<h3>Contact</h3>
+<p>
+  <i class="fas fa-envelope"></i>
+  <strong>Email:</strong>
+  <a href="mailto:arunamaithirajan@gmail.com">arunamaithirajan@gmail.com</a>
+</p>
+<p>
+  <i class="fas fa-phone"></i>
+  <strong>Phone:</strong>
+  <a href="+91 80123 64643">+91 80123 64643</a>
+</p>
+</section>
+
 
 Contact: [arunamaithirajan@gmail.com](mailto:arunamaithirajan@gmail.com)
 
