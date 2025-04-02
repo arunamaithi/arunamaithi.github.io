@@ -79,7 +79,9 @@ html {
       -moz-border-radius: 50%;
       -webkit-border-radius: 50%;
       width: 140px;
+      height: 140px;
       margin: 0 auto;
+      object-fit: cover;
 }
 
 /* Sidebar links */
