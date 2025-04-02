@@ -29,24 +29,6 @@ I have contributed to various research articles in high-end journals and confere
 
 #### I'm actively seeking full-time opportunities in industry R&D or senior security engineering roles. If there are any openings in firmware and embedded security, please feel free to reach out.
 
-<!-- ### [Resume](https://arunamaithi.github.io/cv.pdf) -->
-
-<!-- <h3>Resume</h3> -->
-<!-- <a style="padding-left:25px;" href="{{ site.url }}/cv.pdf"> -->
-  <!-- <i class="fa fa-file-alt fa-2x"></i> -->
-  <!-- <i class="fa fa-address-card fa-2x"></i> -->
-  <!-- <i class="fa-solid fa-file-user fa-2x"></i> -->
-<!-- </a>  -->
-
-<!-- <a href="https://www.linkedin.com/in/arunamaithi/">
-  <i class="fa-brands fa-linkedin fa-2x"></i>
-</a>
-
-<a style="padding-left:25px" href="https://scholar.google.com/citations?user=RZSZVf8AAAAJ&hl=en">
-  <i class="fa-brands fa-google-scholar fa-2x"></i>
-</a> -->
-
-<!-- Contact: [arunamaithirajan@gmail.com](mailto:arunamaithirajan@gmail.com) -->
 
 <h3>Education</h3>
 <ul>
@@ -58,9 +40,10 @@ I have contributed to various research articles in high-end journals and confere
 
 
 <h3>Publications</h3>
+
 <ul>
 <li>
-<u>Arun Amaithi Rajan</u>, V Vetriselvi, R Aishwarya and Anitha Amaithi Rajan, <b>Efficient and Lightweight Framework for Confidential Medical Image Search using Edge Computing</b> <i>(IEEE CINS 2024)</i>
+<u>Arun Amaithi Rajan</u>, Vetriselvi V, Aishwarya R and Anitha Amaithi Rajan, <b>Efficient and Lightweight Framework for Confidential Medical Image Search using Edge Computing</b> <i>(IEEE CINS, Dubai 2024)</i>
 <div>
     <a href="{{ site.baseurl }}/papers/cins24.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
@@ -96,87 +79,53 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 </li>
 </ul>
 
-* Rui Xiao, Tianyu Li, <u>Soundarya Ramesh</u>, Jun Han, and Jinsong Han. <br>**MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals** <i>(ACM MobiCom 2023)</I>
-	<div>
-    <a href="https://ruixiao24.github.io/files/magtracer-mobicom23.pdf">
+<li>
+Mohamed Ihsan P.M, <u>Arun Amaithi Rajan</u>, Vetriselvi V, Gautham Kumar G and Praveen Kumar R, <b>Qcrypt: Advanced Quantum-based Image Encryption for Secure Satellite Data Transmission</b> <i>(IEEE ICEEICT 2024)</i>
+<div>
+    <a href="{{ site.baseurl }}/papers/qc24.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
 	<span style="font-size:80%">Paper</span>
-	</div> 
-	<i>  </i>
+</div>
+</li>
+</ul>
 
-* Jonghyuk Yun\*, Gyuyeon Kim\*, <u>Soundarya Ramesh</u>, and Jun Han. <br>**RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps** <i>(ACM HotMobile 2023)</I>
-	<div>
-    <a href="{{ site.baseurl }}/papers/rampscope_hotmobile23.pdf">
+<li>
+<u>Arun Amaithi Rajan </u> and Vetriselvi V, <b>Systematic survey: Secure and Privacy-preserving Big Data Analytics in Cloud</b> <i>(Journal of Computer Information Systems 2024)</i>
+<div>
+    <a href="{{ site.baseurl }}/papers/survey24.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
 	<span style="font-size:80%">Paper</span>
-	</div> 
-	<i>  </i>
+</div>
+</li>
 
+<li>
+<u>Arun Amaithi Rajan</u>, Vetriselvi V and Aruna Gladys A, <b>Secure Image Encryption Model for Cloud-based Healthcare Storage using Hyperchaos and DNA Encoding</b> <i>(Springer ICCIDS, Chennai 2023)</i>
+<div>
+    <a href="{{ site.baseurl }}/papers/ienc23.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+</div> 
+</li>
 
-* <u>Soundarya Ramesh</u>, Ghozali Hadi, Sihun Yang, Mun Choon Chan, and Jun Han. **TickTock: Detecting Microphone Status in Laptops Leveraging Electromagnetic Leakage of Clock Signals** <i>(ACM CCS 2022)</I>
-	<div>
-    <a href="{{ site.baseurl }}/papers/ticktock_ccs_extended_version.pdf">
+<li>
+Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and Arun Amaithi Rajan, <b>Preventing Forgeries by Securing Healthcare Data Using Blockchain Technology</b> <i>(Springer ICCIDS, Goa 2020)</i>
+<div>
+    <a href="{{ site.baseurl }}/papers/bc2020.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
 	<span style="font-size:80%">Paper</span>
-	
-    <a href="https://www.youtube.com/watch?v=5wygPnX_PaQ">
-   		<i class="fa-brands fa-youtube"></i></a>
-	<span style="font-size:80%">Video</span>
-	</div> 
-	<i>  </i>
+</div> 
+</li>
 
+<li>
+<u>Arun Amaithi Rajan</u> and Anitha Amaithi Rajan, <b>Data Anonymization Techniques for Preserving Privacy in Public Release Data Model: A Technical Review</b> <i>(IJSRCSE 2020)</i>
+<div>
+    <a href="{{ site.baseurl }}/papers/anon2020.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+</div> 
+</li>
 
-* <u>Soundarya Ramesh</u>, Rui Xiao, Anindya Maiti, Jong Taek Lee, Harini Ramprasad, Ananda Kumar, Murtuza Jadliwala and Jun Han. **Acoustics to the Rescue: Physical Key Inference Attack Revisited** <i>(USENIX Security 2021)</i>
-	<div>
-    <a href="{{ site.baseurl }}/papers/sec21fall_ramesh.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-	
-    <a href="https://www.youtube.com/watch?v=hr_KW0_waEU">
-   		<i class="fa-brands fa-youtube"></i></a>
-	<span style="font-size:80%">Video</span>
-	</div> 
-	<!-- <i>  </i> -->
-* <u>Soundarya Ramesh</u>, Harini Ramprasad and Jun Han. **Listen to Your Key: Towards Acoustics-based Physical Key Inference** <i style="font-size:100%">(HotMobile 2020)</i>
-	<div>
-    <a href="{{ site.baseurl }}/papers/spikey_hotmobile.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-	
-    <a href="https://www.youtube.com/watch?v=bxyAa_txM34">
-   		<i class="fa-brands fa-youtube"></i></a>
-	<span style="font-size:80%">Video</span>
-	</div>
-<i>*Our work got featured in <a href="https://cacm.acm.org/news/246744-picking-locks-with-audio-technology/fulltext">ACM News</a>,
-<a href="https://www.forbes.com/sites/daveywinder/2020/08/22/how-hackers-use-sound-to-unlock-the-secrets-of-your-front-door-key-spikey-singapore-university-research/#135f0f905f9f">Forbes</a>, <a href="https://www.schneier.com/blog/archives/2020/08/copying_a_key_b.html">Schneier's Blog<a>, <a href="https://news.ycombinator.com/item?id=24172385">Hacker News</a>, <a href="https://yro.slashdot.org/story/20/08/18/2144252/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks">Slashdot</a>,  <a href="https://mashable.com/article/spikey-house-keys-listening-smartphone/">Mashable</a> and many more.*
-<br>
-* <u>Soundarya Ramesh</u>, Thomas Pathier and Jun Han. **SoundUAV: Towards Delivery Drone Authentication via Acoustic Noise Fingerprinting** <i>(DroNet 2019)</i>
-	<div>
-    <a href="{{ site.baseurl }}/papers/sounduav_dronet.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-	</div>
-<span>&#42;</span><i>Won best poster runner-up award at MobiSys'19</i><span>&#42;</span>
-<br>
-* Shiqi Shen, Shweta Shinde, <u>Soundarya Ramesh</u>, Prateek Saxena and Abhik Roychoudhury. **Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints** <i>(NDSS 2019) </i>
-	<div>
-    <a href="{{ site.baseurl }}/papers/neuex_ndss.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-	</div>
-<!-- <H3>Recent News</H3>
-Aug 2024: Gave a talk at Microsoft Research, Bengaluru <br>
-May 2024: Won the Best Presentation Award in the [Rising Stars Forum](https://www.sigmobile.org/mobisys/2024/rising.html) at MobiSys 2024, Tokyo <br>
-May 2024: Gave a talk at [Romit Roy Choudhury's Group](https://sinrg.csl.illinois.edu) at UIUC <br>
-May 2024: Gave an invited talk at Acoustical Society of America's Meeting, Ottawa <br>
-<span class="more-text" style="display:none;">
-Sep 2023: Gave a talk to the Safesforce Cloud Security Assurance Team, Seattle <br>
-Jul 2023: Passed my Thesis Proposal! <br>
-Feb 2023: Attended HotMobile 2024, Orange Country, and won the Best Poster Award <br>
-Feb 2023: Visited Google, Irvine -- Hosted by [Xiaoran Fan](https://ox5bc.github.io) <br>
-Feb 2023: Gave a talk in [Mani Srivastava's group](https://samueli.ucla.edu/people/mani-srivastava/), UCLA 
-</span>
-<a href="javascript:void(0);" onclick="showMore()" id="more-link">Older ...</a> -->
+</ul>
 
 
 
