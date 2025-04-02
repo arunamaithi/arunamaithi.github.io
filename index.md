@@ -27,12 +27,13 @@ I have contributed to various research articles in high-end journals and confere
 
 <!-- revolve around novel applications of acoustic sensing, as well as sensor security. -->
 
-#### I'm actively seeking full-time opportunities in industry R&D or senior security engineering roles. If there are any openings in firmware and embedded security, please feel free to reach out .
+#### I'm actively seeking full-time opportunities in industry R&D or senior security engineering roles. If there are any openings in firmware and embedded security, please feel free to reach out.
 
 <!-- ### [Resume](https://arunamaithi.github.io/cv.pdf) -->
 
+<h3>Resume</h3>
 <a style="padding-left:25px;" href="{{ site.url }}/cv.pdf">
-  <i class="fas fa-file-user fa-2x"></i>
+  <i class="fa-brands fa-file-user fa-2x"></i>
 </a> 
 
 <!-- <a href="https://www.linkedin.com/in/arunamaithi/">
