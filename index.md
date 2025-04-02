@@ -31,12 +31,12 @@ I have contributed to various research articles in high-end journals and confere
 
 <!-- ### [Resume](https://arunamaithi.github.io/cv.pdf) -->
 
-<h3>Resume</h3>
-<a style="padding-left:25px;" href="{{ site.url }}/cv.pdf">
-  <i class="fa fa-file-alt fa-2x"></i>
+<!-- <h3>Resume</h3> -->
+<!-- <a style="padding-left:25px;" href="{{ site.url }}/cv.pdf"> -->
+  <!-- <i class="fa fa-file-alt fa-2x"></i> -->
   <!-- <i class="fa fa-address-card fa-2x"></i> -->
   <!-- <i class="fa-solid fa-file-user fa-2x"></i> -->
-</a> 
+<!-- </a>  -->
 
 <!-- <a href="https://www.linkedin.com/in/arunamaithi/">
   <i class="fa-brands fa-linkedin fa-2x"></i>
@@ -55,18 +55,78 @@ I have contributed to various research articles in high-end journals and confere
   <li><strong>August 2014 – April 2018:</strong> B.E. in Computer Science and Engineering, College of Engineering Guindy, Anna University.</li>
 </ul>
 
-<h3>Contact</h3>
-<p>
-  <i class="fas fa-envelope"></i>
-  <strong>Email:</strong>
-  <a href="mailto:arunamaithirajan@gmail.com">arunamaithirajan@gmail.com</a>
-</p>
-<p>
-  <i class="fas fa-phone"></i>
-  <strong>Phone:</strong>
-  <a href="+91 80123 64643">+91 80123 64643</a>
-</p>
 
+
+<h3>Publications</h3>
+
+* Rui Xiao, Tianyu Li, <u>Soundarya Ramesh</u>, Jun Han, and Jinsong Han. <br>**MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals** <i>(ACM MobiCom 2023)</I>
+	<div>
+    <a href="https://ruixiao24.github.io/files/magtracer-mobicom23.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+	</div> 
+	<i>  </i>
+
+* Jonghyuk Yun\*, Gyuyeon Kim\*, <u>Soundarya Ramesh</u>, and Jun Han. <br>**RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps** <i>(ACM HotMobile 2023)</I>
+	<div>
+    <a href="{{ site.baseurl }}/papers/rampscope_hotmobile23.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+	</div> 
+	<i>  </i>
+
+
+* <u>Soundarya Ramesh</u>, Ghozali Hadi, Sihun Yang, Mun Choon Chan, and Jun Han. **TickTock: Detecting Microphone Status in Laptops Leveraging Electromagnetic Leakage of Clock Signals** <i>(ACM CCS 2022)</I>
+	<div>
+    <a href="{{ site.baseurl }}/papers/ticktock_ccs_extended_version.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+	
+    <a href="https://www.youtube.com/watch?v=5wygPnX_PaQ">
+   		<i class="fa-brands fa-youtube"></i></a>
+	<span style="font-size:80%">Video</span>
+	</div> 
+	<i>  </i>
+
+
+* <u>Soundarya Ramesh</u>, Rui Xiao, Anindya Maiti, Jong Taek Lee, Harini Ramprasad, Ananda Kumar, Murtuza Jadliwala and Jun Han. **Acoustics to the Rescue: Physical Key Inference Attack Revisited** <i>(USENIX Security 2021)</i>
+	<div>
+    <a href="{{ site.baseurl }}/papers/sec21fall_ramesh.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+	
+    <a href="https://www.youtube.com/watch?v=hr_KW0_waEU">
+   		<i class="fa-brands fa-youtube"></i></a>
+	<span style="font-size:80%">Video</span>
+	</div> 
+	<!-- <i>  </i> -->
+* <u>Soundarya Ramesh</u>, Harini Ramprasad and Jun Han. **Listen to Your Key: Towards Acoustics-based Physical Key Inference** <i style="font-size:100%">(HotMobile 2020)</i>
+	<div>
+    <a href="{{ site.baseurl }}/papers/spikey_hotmobile.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+	
+    <a href="https://www.youtube.com/watch?v=bxyAa_txM34">
+   		<i class="fa-brands fa-youtube"></i></a>
+	<span style="font-size:80%">Video</span>
+	</div>
+<i>*Our work got featured in <a href="https://cacm.acm.org/news/246744-picking-locks-with-audio-technology/fulltext">ACM News</a>,
+<a href="https://www.forbes.com/sites/daveywinder/2020/08/22/how-hackers-use-sound-to-unlock-the-secrets-of-your-front-door-key-spikey-singapore-university-research/#135f0f905f9f">Forbes</a>, <a href="https://www.schneier.com/blog/archives/2020/08/copying_a_key_b.html">Schneier's Blog<a>, <a href="https://news.ycombinator.com/item?id=24172385">Hacker News</a>, <a href="https://yro.slashdot.org/story/20/08/18/2144252/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks">Slashdot</a>,  <a href="https://mashable.com/article/spikey-house-keys-listening-smartphone/">Mashable</a> and many more.*
+<br>
+* <u>Soundarya Ramesh</u>, Thomas Pathier and Jun Han. **SoundUAV: Towards Delivery Drone Authentication via Acoustic Noise Fingerprinting** <i>(DroNet 2019)</i>
+	<div>
+    <a href="{{ site.baseurl }}/papers/sounduav_dronet.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+	</div>
+<span>&#42;</span><i>Won best poster runner-up award at MobiSys'19</i><span>&#42;</span>
+<br>
+* Shiqi Shen, Shweta Shinde, <u>Soundarya Ramesh</u>, Prateek Saxena and Abhik Roychoudhury. **Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints** <i>(NDSS 2019) </i>
+	<div>
+    <a href="{{ site.baseurl }}/papers/neuex_ndss.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+	</div>
 <!-- <H3>Recent News</H3>
 Aug 2024: Gave a talk at Microsoft Research, Bengaluru <br>
 May 2024: Won the Best Presentation Award in the [Rising Stars Forum](https://www.sigmobile.org/mobisys/2024/rising.html) at MobiSys 2024, Tokyo <br>
