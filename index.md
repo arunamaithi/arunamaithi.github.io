@@ -43,6 +43,14 @@ I have contributed to various research articles in high-end journals and confere
   <i class="fa-brands fa-google-scholar fa-2x"></i>
 </a> -->
 
+<!-- Contact: [arunamaithirajan@gmail.com](mailto:arunamaithirajan@gmail.com) -->
+
+<h3>Education</h3>
+<ul>
+  <li><strong>January 2022 – Present:</strong> Ph.D. in Computer Science and Engineering, College of Engineering Guindy, Anna University.</li>
+  <li><strong>August 2018 – January 2020:</strong> Master of Computing, National University of Singapore.</li>
+  <li><strong>August 2014 – April 2018:</strong> B.E. in Computer Science and Engineering, College of Engineering Guindy, Anna University.</li>
+</ul>
 
 <h3>Contact</h3>
 <p>
@@ -55,17 +63,6 @@ I have contributed to various research articles in high-end journals and confere
   <strong>Phone:</strong>
   <a href="+91 80123 64643">+91 80123 64643</a>
 </p>
-</section>
-
-
-Contact: [arunamaithirajan@gmail.com](mailto:arunamaithirajan@gmail.com)
-
-<h3>Education</h3>
-<ul>
-  <li><strong>January 2022 – Present:</strong> Ph.D. in Computer Science and Engineering, College of Engineering Guindy, Anna University.</li>
-  <li><strong>August 2018 – January 2020:</strong> Master of Computing, National University of Singapore.</li>
-  <li><strong>August 2014 – April 2018:</strong> B.E. in Computer Science and Engineering, College of Engineering Guindy, Anna University.</li>
-</ul>
 
 <!-- <H3>Recent News</H3>
 Aug 2024: Gave a talk at Microsoft Research, Bengaluru <br>
