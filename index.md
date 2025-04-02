@@ -58,6 +58,33 @@ I have contributed to various research articles in high-end journals and confere
 
 
 <h3>Publications</h3>
+* <u>Arun Amaithi Rajan</u>, V Vetriselvi, R Aishwarya and Anitha Amaithi Rajan, <br>**Efficient and Lightweight Framework for Confidential Medical Image Search using Edge Computing** <i>(IEEE CINS 2024)</i>
+<div>
+    <a href="{{ site.baseurl }}/papers/cins24.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+</div> 
+
+* <u>Arun Amaithi Rajan </u>, Vetriselvi V, Mayank Raikwar and Reshma Balaraman, <br>**SMedIR: Secure Medical Image Retrieval Framework with ConvNeXt-based Indexing and Searchable Encryption in the Cloud** <i>(Journal of Cloud Computing 2024)</i>
+<div>
+    <a href="{{ site.baseurl }}/papers/jcc24.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+</div>
+
+* Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <br>**EdgeShield: Attack Resistant Secure and Privacy-aware Remote Sensing Image Retrieval System for Military and Geological Applications using Edge Computing** <i>(Earth Science Informatics 2024)</i>
+<div>
+    <a href="{{ site.baseurl }}/papers/esi24.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+</div>
+
+* <u>Arun Amaithi Rajan </u> and Vetriselvi V, <br>**QMedShield: A Novel Quantum Chaos-based Image Encryption Scheme for Secure Medical Image Storage in the Cloud** <i>(Journal of Modern Optics 2024)</i>
+<div>
+    <a href="{{ site.baseurl }}/papers/jmo24.pdf">
+		<i class="fa-solid fa-file-pdf"></i></a>
+	<span style="font-size:80%">Paper</span>
+</div>
 
 * Rui Xiao, Tianyu Li, <u>Soundarya Ramesh</u>, Jun Han, and Jinsong Han. <br>**MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals** <i>(ACM MobiCom 2023)</I>
 	<div>
