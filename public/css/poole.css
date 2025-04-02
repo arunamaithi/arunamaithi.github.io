@@ -294,6 +294,9 @@ tbody tr:nth-child(odd) th {
   margin-left:  auto;
   margin-right: auto;
 }
+.container p {
+  text-align: justify;
+}
 
 
 /*
