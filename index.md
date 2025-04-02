@@ -33,7 +33,7 @@ I have contributed to various research articles in high-end journals and confere
 
 <h3>Resume</h3>
 <a style="padding-left:25px;" href="{{ site.url }}/cv.pdf">
-  <i class="fa-brands fa-file-user fa-2x"></i>
+  <i class="fa-solid fa-file-user fa-2x"></i>
 </a> 
 
 <!-- <a href="https://www.linkedin.com/in/arunamaithi/">
