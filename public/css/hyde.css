@@ -84,7 +84,7 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: rgba(255,255,255,1);
 }
 
 /* About section */
@@ -93,6 +93,7 @@ html {
   margin-top: 0;
   font-family: "PT Sans", serif;
   font-size: 2.0rem;
+  margin-bottom: 1rem;
 }
 
 /* Sidebar nav */
