@@ -30,7 +30,7 @@ I have contributed to various research articles in high-end journals and confere
 #### I'm actively seeking full-time opportunities in industry R&D or senior security engineering roles. If there are any openings in firmware and embedded security, please feel free to reach out.
 
 
-<h3>Education</h3>
+<h2>Education</h2>
 <ul>
   <li><strong>January 2022 – Present:</strong> Ph.D. in Computer Science and Engineering, College of Engineering Guindy, Anna University.</li>
   <li><strong>August 2018 – January 2020:</strong> Master of Computing, National University of Singapore.</li>
@@ -39,9 +39,9 @@ I have contributed to various research articles in high-end journals and confere
 
 
 
-<h3>Publications</h3>
+<h2>Publications</h2>
 
-<h2>Indian Patents</h2>
+<h3>Indian Patents</h3>
 <ul>
 
 <li>
@@ -50,7 +50,7 @@ Secure Biometric-based Access Control System Using Blockchain With Zero Knowledg
 
 </ul>
 
-<h2>International Journals</h2>
+<h3>International Journals</h3>
 <ul>
 
 <li>
@@ -100,7 +100,7 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 
 </ul>
 
-<h2>International Conferences</h2>
+<h3>International Conferences</h3>
 <ul>
 
 <li>
