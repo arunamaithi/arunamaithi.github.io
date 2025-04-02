@@ -81,7 +81,7 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 </li>
 
 <li>
-<u>Arun Amaithi Rajan </u> and Vetriselvi V, <b>Systematic survey: Secure and Privacy-preserving Big Data Analytics in Cloud</b> <i>(Journal of Computer Information Systems 2024)</i>
+<u>Arun Amaithi Rajan </u> and Vetriselvi V, <b>Systematic survey: Secure and Privacy-preserving Big Data Analytics in Cloud</b> <i>(Journal of Computer Information Systems 2023)</i>
 <div>
     <a href="{{ site.baseurl }}/papers/survey24.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
@@ -131,7 +131,7 @@ Mohamed Ihsan P.M, <u>Arun Amaithi Rajan</u>, Vetriselvi V, Gautham Kumar G and 
 </li>
 
 <li>
-Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and Arun Amaithi Rajan, <b>Preventing Forgeries by Securing Healthcare Data Using Blockchain Technology</b> <i>(Springer ICT4SD, India 2020)</i>
+Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Arun Amaithi Rajan</u>, <b>Preventing Forgeries by Securing Healthcare Data Using Blockchain Technology</b> <i>(Springer ICT4SD, India 2020)</i>
 <div>
     <a href="{{ site.baseurl }}/papers/bc2020.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
