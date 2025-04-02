@@ -113,7 +113,7 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 </li>
 
 <li>
-Mohamed Ihsan P.M, <u>Arun Amaithi Rajan</u>, Vetriselvi V, Gautham Kumar G and Praveen Kumar R, <b>Qcrypt: Advanced Quantum-based Image Encryption for Secure Satellite Data Transmission</b> <i>(IEEE ICEEICT, India 2024)</i>
+Mohamed Ihsan P.M, <u>Arun Amaithi Rajan</u>, Vetriselvi V, Gautham Kumar G and Praveen Kumar R, <b>Qcrypt: Advanced Quantum-based Image Encryption for Secure Satellite Data Transmission</b> <i>(IEEE ICEEICT, India 2024)</i> <b>(Received Best Paper Award)</b>
 <div>
     <a href="{{ site.baseurl }}/papers/qc24.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
@@ -122,7 +122,7 @@ Mohamed Ihsan P.M, <u>Arun Amaithi Rajan</u>, Vetriselvi V, Gautham Kumar G and 
 </li>
 
 <li>
-<u>Arun Amaithi Rajan</u>, Vetriselvi V and Aruna Gladys A, <b>Secure Image Encryption Model for Cloud-based Healthcare Storage using Hyperchaos and DNA Encoding</b> <i>(Springer ICCIDS, India 2023)</i>
+<u>Arun Amaithi Rajan</u>, Vetriselvi V and Aruna Gladys A, <b>Secure Image Encryption Model for Cloud-based Healthcare Storage using Hyperchaos and DNA Encoding</b> <i>(Springer ICCIDS, India 2023)</i> <b>(Received Best Paper Award)</b>
 <div>
     <a href="{{ site.baseurl }}/papers/ienc23.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
