@@ -29,7 +29,7 @@ I have contributed to various research articles in high-end journals and confere
 
 #### I'm actively seeking full-time opportunities in industry R&D or senior security engineering roles. If there are any openings in firmware and embedded security, please feel free to reach out. .
 
-### [Curriculum Vitae](https://arunamaithi.github.io/cv.pdf)
+### [Resume](https://arunamaithi.github.io/cv.pdf)
 
 <!-- , [Google Scholar Profile](https://scholar.google.com/citations?user=RZSZVf8AAAAJ&hl=en), [LinkedIn Profile](https://www.linkedin.com/in/arunamaithi/) -->
 <a href="https://www.linkedin.com/in/arunamaithi/">
