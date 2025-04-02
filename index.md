@@ -60,7 +60,7 @@ I have contributed to various research articles in high-end journals and confere
 <h3>Publications</h3>
 <ul>
 <li>
-* <u>Arun Amaithi Rajan</u>, V Vetriselvi, R Aishwarya and Anitha Amaithi Rajan, <br>**Efficient and Lightweight Framework for Confidential Medical Image Search using Edge Computing** <i>(IEEE CINS 2024)</i>
+<u>Arun Amaithi Rajan</u>, V Vetriselvi, R Aishwarya and Anitha Amaithi Rajan, <b>Efficient and Lightweight Framework for Confidential Medical Image Search using Edge Computing</b> <i>(IEEE CINS 2024)</i>
 <div>
     <a href="{{ site.baseurl }}/papers/cins24.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
@@ -69,7 +69,7 @@ I have contributed to various research articles in high-end journals and confere
 </li>
 
 <li>
-* <u>Arun Amaithi Rajan </u>, Vetriselvi V, Mayank Raikwar and Reshma Balaraman, <br>**SMedIR: Secure Medical Image Retrieval Framework with ConvNeXt-based Indexing and Searchable Encryption in the Cloud** <i>(Journal of Cloud Computing 2024)</i>
+<u>Arun Amaithi Rajan </u>, Vetriselvi V, Mayank Raikwar and Reshma Balaraman, <b>SMedIR: Secure Medical Image Retrieval Framework with ConvNeXt-based Indexing and Searchable Encryption in the Cloud</b> <i>(Journal of Cloud Computing 2024)</i>
 <div>
     <a href="{{ site.baseurl }}/papers/jcc24.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
@@ -78,7 +78,7 @@ I have contributed to various research articles in high-end journals and confere
 </li>
 
 <li>
-* Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <br>**EdgeShield: Attack Resistant Secure and Privacy-aware Remote Sensing Image Retrieval System for Military and Geological Applications using Edge Computing** <i>(Earth Science Informatics 2024)</i>
+Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <b>EdgeShield: Attack Resistant Secure and Privacy-aware Remote Sensing Image Retrieval System for Military and Geological Applications using Edge Computing</b> <i>(Earth Science Informatics 2024)</i>
 <div>
     <a href="{{ site.baseurl }}/papers/esi24.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
@@ -87,7 +87,7 @@ I have contributed to various research articles in high-end journals and confere
 </li>
 
 <li>
-* <u>Arun Amaithi Rajan </u> and Vetriselvi V, <br>**QMedShield: A Novel Quantum Chaos-based Image Encryption Scheme for Secure Medical Image Storage in the Cloud** <i>(Journal of Modern Optics 2024)</i>
+<u>Arun Amaithi Rajan </u> and Vetriselvi V, <b>QMedShield: A Novel Quantum Chaos-based Image Encryption Scheme for Secure Medical Image Storage in the Cloud</b> <i>(Journal of Modern Optics 2024)</i>
 <div>
     <a href="{{ site.baseurl }}/papers/jmo24.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
