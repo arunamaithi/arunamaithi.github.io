@@ -77,7 +77,6 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 	<span style="font-size:80%">Paper</span>
 </div>
 </li>
-</ul>
 
 <li>
 Mohamed Ihsan P.M, <u>Arun Amaithi Rajan</u>, Vetriselvi V, Gautham Kumar G and Praveen Kumar R, <b>Qcrypt: Advanced Quantum-based Image Encryption for Secure Satellite Data Transmission</b> <i>(IEEE ICEEICT 2024)</i>
@@ -87,7 +86,6 @@ Mohamed Ihsan P.M, <u>Arun Amaithi Rajan</u>, Vetriselvi V, Gautham Kumar G and 
 	<span style="font-size:80%">Paper</span>
 </div>
 </li>
-</ul>
 
 <li>
 <u>Arun Amaithi Rajan </u> and Vetriselvi V, <b>Systematic survey: Secure and Privacy-preserving Big Data Analytics in Cloud</b> <i>(Journal of Computer Information Systems 2024)</i>
@@ -108,7 +106,7 @@ Mohamed Ihsan P.M, <u>Arun Amaithi Rajan</u>, Vetriselvi V, Gautham Kumar G and 
 </li>
 
 <li>
-Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and Arun Amaithi Rajan, <b>Preventing Forgeries by Securing Healthcare Data Using Blockchain Technology</b> <i>(Springer ICCIDS, Goa 2020)</i>
+Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and Arun Amaithi Rajan, <b>Preventing Forgeries by Securing Healthcare Data Using Blockchain Technology</b> <i>(Springer ICT4SD, Goa 2020)</i>
 <div>
     <a href="{{ site.baseurl }}/papers/bc2020.pdf">
 		<i class="fa-solid fa-file-pdf"></i></a>
