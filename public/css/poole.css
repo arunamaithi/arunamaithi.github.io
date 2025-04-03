@@ -229,7 +229,7 @@ blockquote p:last-child {
 
 @media (max-width: 30em) {
   .lead {
-    text-align: center;
+    text-align: center !important;
   }
 }
 
