@@ -51,7 +51,7 @@ Secure Biometric-based Access Control System Using Blockchain With Zero Knowledg
 </ul>
 
 <h3>International Journals</h3>
-<ul>
+<ul style="justify-content:justify;margin-bottom:5px;">
 
 <li>
 <u>Arun Amaithi Rajan</u>, Vetriselvi V, Mayank Raikwar and Reshma Balaraman, <b>SMedIR: Secure Medical Image Retrieval Framework with ConvNeXt-based Indexing and Searchable Encryption in the Cloud</b> <i>(Journal of Cloud Computing 2024)</i>
@@ -92,7 +92,7 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 </ul>
 
 <h3>International Conferences</h3>
-<ul>
+<ul style="justify-content:justify;margin-bottom:5px;">
 
 <li>
 <u>Arun Amaithi Rajan</u>, Vetriselvi V, Aishwarya R and Anitha Amaithi Rajan, <b>Efficient and Lightweight Framework for Confidential Medical Image Search using Edge Computing</b> <i>(IEEE CINS, UAE 2024)</i>
