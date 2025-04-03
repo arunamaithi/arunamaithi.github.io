@@ -90,12 +90,11 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 </li>
 
 <li>
-<u>Arun Amaithi Rajan</u> and Anitha Amaithi Rajan, <b>Data Anonymization Techniques for Preserving Privacy in Public Release Data Model: A Technical Review</b> <i>(IJSRCSE 2020)</i>
-<div>
-    <a href="{{ site.baseurl }}/papers/anon2020.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-</div> 
+<u>Arun Amaithi Rajan</u> and Anitha Amaithi Rajan, <b>Data Anonymization Techniques for Preserving Privacy in Public Release Data Model: A Technical Review</b> 
+  <i>(IJSRCSE 2020)</i>
+  <a href="{{ site.baseurl }}/papers/anon2020.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square"></i>
+  </a>
 </li>
 
 </ul>
