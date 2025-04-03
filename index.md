@@ -55,45 +55,37 @@ Secure Biometric-based Access Control System Using Blockchain With Zero Knowledg
 
 <li>
 <u>Arun Amaithi Rajan</u>, Vetriselvi V, Mayank Raikwar and Reshma Balaraman, <b>SMedIR: Secure Medical Image Retrieval Framework with ConvNeXt-based Indexing and Searchable Encryption in the Cloud</b> <i>(Journal of Cloud Computing 2024)</i>
-<div>
-    <a href="{{ site.baseurl }}/papers/jcc24.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-</div>
+  <a href="{{ site.baseurl }}/papers/jcc24.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+  </a>
 </li>
 
 <li>
 Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <b>EdgeShield: Attack Resistant Secure and Privacy-aware Remote Sensing Image Retrieval System for Military and Geological Applications using Edge Computing</b> <i>(Earth Science Informatics 2024)</i>
-<div>
-    <a href="{{ site.baseurl }}/papers/esi24.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-</div>
+<a href="{{ site.baseurl }}/papers/esi24.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+</a>
 </li>
 
 <li>
 <u>Arun Amaithi Rajan </u> and Vetriselvi V, <b>QMedShield: A Novel Quantum Chaos-based Image Encryption Scheme for Secure Medical Image Storage in the Cloud</b> <i>(Journal of Modern Optics 2024)</i>
-<div>
-    <a href="{{ site.baseurl }}/papers/jmo24.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-</div>
+<a href="{{ site.baseurl }}/papers/jmo24.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+</a>
 </li>
 
 <li>
 <u>Arun Amaithi Rajan </u> and Vetriselvi V, <b>Systematic survey: Secure and Privacy-preserving Big Data Analytics in Cloud</b> <i>(Journal of Computer Information Systems 2023)</i>
-<div>
-    <a href="{{ site.baseurl }}/papers/survey24.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-</div>
+<a href="{{ site.baseurl }}/papers/survey24.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+</a>
 </li>
 
 <li>
 <u>Arun Amaithi Rajan</u> and Anitha Amaithi Rajan, <b>Data Anonymization Techniques for Preserving Privacy in Public Release Data Model: A Technical Review</b> 
   <i>(IJSRCSE 2020)</i>
   <a href="{{ site.baseurl }}/papers/anon2020.pdf">
-    <i class="fa-solid fa-arrow-up-right-from-square"></i>
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
   </a>
 </li>
 
@@ -104,39 +96,30 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 
 <li>
 <u>Arun Amaithi Rajan</u>, Vetriselvi V, Aishwarya R and Anitha Amaithi Rajan, <b>Efficient and Lightweight Framework for Confidential Medical Image Search using Edge Computing</b> <i>(IEEE CINS, UAE 2024)</i>
-<div>
-    <a href="{{ site.baseurl }}/papers/cins24.pdf">
-		  <i class="fa-solid fa-file-pdf"></i>
-	    <span style="font-size:80%">Paper</span>
-    </a>
-</div> 
+<a href="{{ site.baseurl }}/papers/cins24.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+</a>
 </li>
 
 <li>
 Mohamed Ihsan P.M, <u>Arun Amaithi Rajan</u>, Vetriselvi V, Gautham Kumar G and Praveen Kumar R, <b>Qcrypt: Advanced Quantum-based Image Encryption for Secure Satellite Data Transmission</b> <i>(IEEE ICEEICT, India 2024)</i> <b>(Received Best Paper Award)</b>
-<div>
-    <a href="{{ site.baseurl }}/papers/qc24.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-</div>
+<a href="{{ site.baseurl }}/papers/qc24.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+</a>
 </li>
 
 <li>
 <u>Arun Amaithi Rajan</u>, Vetriselvi V and Aruna Gladys A, <b>Secure Image Encryption Model for Cloud-based Healthcare Storage using Hyperchaos and DNA Encoding</b> <i>(Springer ICCIDS, India 2023)</i> <b>(Received Best Paper Award)</b>
-<div>
-    <a href="{{ site.baseurl }}/papers/ienc23.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-</div> 
+<a href="{{ site.baseurl }}/papers/ienc24.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+</a>
 </li>
 
 <li>
 Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Arun Amaithi Rajan</u>, <b>Preventing Forgeries by Securing Healthcare Data Using Blockchain Technology</b> <i>(Springer ICT4SD, India 2020)</i>
-<div>
-    <a href="{{ site.baseurl }}/papers/bc2020.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
-</div> 
+<a href="{{ site.baseurl }}/papers/bc2020.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+</a>
 </li>
 
 </ul>
