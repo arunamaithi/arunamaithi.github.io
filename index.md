@@ -132,8 +132,8 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
  
 <h2>Certitfications</h2>
 <ul>
-  <li>Completed <strong>3 Coursera courses:</strong> <a href="{{ site.baseurl }}/certificaates/apm.pdf">Google Project Management</a>, <a href="{{ site.baseurl }}/certificaates/cq.pdf">Quantum Information</a>, and <a href="{{ site.baseurl }}/certificaates/sec.pdf">Principles of Secure Coding </a>.</li>
-  <li>Completed <strong>3 NPTEL courses:</strong> <a href="{{ site.baseurl }}/certificaates/dl.jpg">Deep Learning</a>, <a href="{{ site.baseurl }}/certificaates/qc.jpg">Quantum Computing</a>, and <a href="{{ site.baseurl }}/certificaates/op.png">Online Privacy</a>.</li>
+  <li>Completed <strong>3 Coursera courses:</strong> <a href="{{ site.baseurl }}/certificates/apm.pdf">Google Project Management</a>, <a href="{{ site.baseurl }}/certificates/cq.pdf">Quantum Information</a>, and <a href="{{ site.baseurl }}/certificates/sec.pdf">Principles of Secure Coding </a>.</li>
+  <li>Completed <strong>3 NPTEL courses:</strong> <a href="{{ site.baseurl }}/certificates/dl.jpg">Deep Learning</a>, <a href="{{ site.baseurl }}/certificates/qc.jpg">Quantum Computing</a>, and <a href="{{ site.baseurl }}/certificates/op.png">Online Privacy</a>.</li>
 </ul>
 
 <h2>Milestones and Experiences</h2>
