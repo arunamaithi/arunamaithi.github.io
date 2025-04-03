@@ -143,8 +143,8 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
 
 <h2>Milestones and Experiences</h2>
 <ul>
-  <li><strong>Feb 22, 2025:</strong> Presented my research article at the Doctoral Symposium of [ISEC 2025, NIT Kurukshetra](https://conf.researchr.org/track/isec-2025/isec-2025-doctoral-symposium#event-overview).</li>
-  <li><strong>Nov 24, 2024:</strong> Delivered an invited talk on <em>EdgeShield</em> at the [International Conference on Space Science and Technology, Dubai](https://prezentis.com/spacetech/2024/all-speakers).</li>
+  <li><strong>Feb 22, 2025:</strong> Presented my research article at the Doctoral Symposium of <a href="https://conf.researchr.org/track/isec-2025/isec-2025-doctoral-symposium#event-overview">ISEC 2025, NIT Kurukshetra</a>.</li>
+  <li><strong>Nov 24, 2024:</strong> Delivered an invited talk on <em>EdgeShield</em> at the <a href="https://prezentis.com/spacetech/2024/all-speakers">International Conference on Space Science and Technology, Dubai</a>.</li>
   <li><strong>May 24, 2023:</strong> Gave an invited lecture on <em>Secure Big Data Analytics in Healthcare</em> at an Online FDP on Data Analytics & AI in Healthcare, hosted by an affiliated engineering college to Anna University.</li>
   <li><strong>Jan 18, 2022:</strong> Conducted an expert session on <em>Introduction to Intel SGX</em> at the AICTE Short-Term Online Training Program on Cyber Security, Anna University, Chennai.</li>
   
