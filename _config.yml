@@ -18,12 +18,7 @@ description:      Ph.D Scholar @ CEG, AU
 url:              "https://arunamaithi.github.io/"
 baseurl:          "" 
 
-author:
-  name:           'Soundarya Ramesh'
-  #url:            https://twitter.com/mdo
-
 gravatar_md5:    3b2825418e1aca9e4dae39ea61f62fc5
-
 
 paginate:         1
 paginate_path:    "/blogs/page:num/"
