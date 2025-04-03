@@ -32,9 +32,9 @@ I have contributed to various research articles in high-end journals and confere
 
 <h2>Education</h2>
 <ul>
-  <li><strong>College of Engineering Guindy, Anna University</strong> Ph.D. in Computer Science and Engineering (January 2022 – Present) (Thesis on <strong>Secure Medical Image Storage and Retrieval Techniques in the Cloud</strong>)</li>
-  <li><strong>National University of Singapore</strong> Master of Computing (August 2018 – January 2020)</li>
-  <li><strong>College of Engineering Guindy, Anna University</strong> B.E. in Computer Science and Engineering (August 2014 – April 2018)</li>
+  <li><strong>College of Engineering Guindy, Anna University</strong> - Ph.D. in Computer Science and Engineering (January 2022 – Present) (Thesis on <strong>Secure Medical Image Storage and Retrieval Techniques in the Cloud</strong>)</li>
+  <li><strong>School of Computing, National University of Singapore</strong> - Master of Computing (August 2018 – January 2020)</li>
+  <li><strong>College of Engineering Guindy, Anna University</strong> - B.E. in Computer Science and Engineering (August 2014 – April 2018)</li>
 </ul>
 
 
