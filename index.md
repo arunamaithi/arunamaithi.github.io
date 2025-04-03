@@ -147,33 +147,22 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
   <li><strong>Nov 24, 2024:</strong> Delivered an invited talk on <em>EdgeShield</em> at the <a href="https://prezentis.com/spacetech/2024/all-speakers">International Conference on Space Science and Technology, Dubai</a>.</li>
   <li><strong>May 24, 2023:</strong> Gave an invited lecture on <em>Secure Big Data Analytics in Healthcare</em> at an Online FDP on Data Analytics & AI in Healthcare, hosted by an affiliated engineering college to Anna University.</li>
   <li><strong>Jan 18, 2022:</strong> Conducted an expert session on <em>Introduction to Intel SGX</em> at the AICTE Short-Term Online Training Program on Cyber Security, Anna University, Chennai.</li>
-  
-  <li><strong>Awards & Recognitions:</strong>
-    <ul>
-      <li>Received the <strong>Excellent Execution Award</strong> and <strong>Employee Achievement STAR Award</strong> at Micron for outstanding contributions.</li>
-      <li>Ranked <strong>6th</strong> in the B.E (Computer Science and Engineering) program at Anna University.</li>
-    </ul>
-  </li>
+  <li>Led R&D projects, mentoring <strong>3 UG teams and 2 PG students</strong> in secure image retrieval, quantum computing, blockchain security, steganography, and LLM security.</li>
+  <li>Supervised projects that resulted in more technical research articles. 
+  <li>Attended and presented research at <strong>international security conferences</strong> in the UK and UAE.</li>
+  <li>Completed a <strong>two-week AI & Big Data Analytics in Healthcare Workshop</strong> at Taiwan Medical University during Dec 11-22, 2017.</li>
+</ul>
 
-  <li><strong>Leadership & Mentorship:</strong>
-    <ul>
-      <li>Led R&D projects, mentoring <strong>3 UG teams and 2 PG students</strong> in secure image retrieval, quantum computing, blockchain security, steganography, and LLM security.</li>
-      <li>Supervised projects that resulted in more technical research articles. 
-    </ul>
-  </li>
 
-  <li><strong>International Exposure:</strong>
-    <ul>
-      <li>Attended and presented research at <strong>international security conferences</strong> in the UK and UAE.</li>
-      <li>Completed a <strong>two-week AI & Big Data Analytics in Healthcare Workshop</strong> at Taiwan Medical University during Dec 11-22, 2017.</li>
-    </ul>
-  </li>
-
-  <li><strong>Continuous Learning:</strong>
-    <ul>
-      <li>Completed <strong>3 Coursera courses:</strong> Google Project Management, Quantum Information, and Principles of Secure Coding.</li>
-      <li>Completed <strong>3 NPTEL courses:</strong> Deep Learning, Quantum Computing, and Online Privacy.</li>
-    </ul>
-  </li>
+<h2>Awards & Recognitions</h2>
+<ul>
+  <li>Received the <strong>Excellent Execution Award</strong> and <strong>Employee Achievement STAR Award</strong> at Micron for outstanding contributions.</li>
+  <li>Ranked <strong>6th</strong> in the B.E (Computer Science and Engineering) program at Anna University.</li>
+</ul>
+ 
+<h2>Certitfications</h2>
+<ul>
+  <li>Completed <strong>3 Coursera courses:</strong> Google Project Management, Quantum Information, and Principles of Secure Coding.</li>
+  <li>Completed <strong>3 NPTEL courses:</strong> Deep Learning, Quantum Computing, and Online Privacy.</li>
 </ul>
 
