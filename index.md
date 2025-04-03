@@ -141,5 +141,39 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
 
 </ul>
 
+<h2>Milestones and Experiences</h2>
+<ul>
+  <li><strong>Feb 22, 2025:</strong> Presented my research article at the Doctoral Symposium of ISEC 2025, NIT Kurukshetra.</li>
+  <li><strong>Nov 24, 2024:</strong> Delivered an invited talk on <em>EdgeShield</em> at the International Conference on Space Science and Technology, Dubai.</li>
+  <li><strong>May 24, 2023:</strong> Gave an invited lecture on <em>Secure Big Data Analytics in Healthcare</em> at an Online FDP on Data Analytics & AI in Healthcare, hosted by an Anna University-affiliated engineering college.</li>
+  <li><strong>Jan 18, 2022:</strong> Conducted an expert session on <em>Introduction to Intel SGX</em> at the AICTE Short-Term Online Training Program on Cyber Security, Anna University, Chennai.</li>
+  
+  <li><strong>Awards & Recognitions:</strong>
+    <ul>
+      <li>Received the <strong>Excellent Execution Award</strong> and <strong>Employee Achievement STAR Award</strong> at Micron for outstanding contributions.</li>
+      <li>Ranked <strong>6th among the Top 10 students</strong> in Computer Science and Engineering.</li>
+    </ul>
+  </li>
 
+  <li><strong>Leadership & Mentorship:</strong>
+    <ul>
+      <li>Led R&D teams, mentoring <strong>3 UG and 2 PG students</strong> in secure image retrieval, quantum computing, blockchain security, steganography, and LLM security.</li>
+      <li>Supervised projects that resulted in <strong>2 published journal articles, 2 conference presentations, and 2 article submissions.</strong></li>
+    </ul>
+  </li>
+
+  <li><strong>International Exposure:</strong>
+    <ul>
+      <li>Attended and presented research at <strong>international security conferences</strong> in the UK and UAE.</li>
+      <li>Completed a <strong>two-week AI & Big Data Analytics in Healthcare Workshop</strong> at Taiwan Medical University (Dec 11-22, 2017).</li>
+    </ul>
+  </li>
+
+  <li><strong>Continuous Learning:</strong>
+    <ul>
+      <li>Completed <strong>3 Coursera courses:</strong> Google Project Management, Quantum Information, and Principles of Secure Coding.</li>
+      <li>Completed <strong>3 NPTEL courses:</strong> Deep Learning, Quantum Computing, and Online Privacy.</li>
+    </ul>
+  </li>
+</ul>
 
