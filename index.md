@@ -32,9 +32,9 @@ I have contributed to various research articles in high-end journals and confere
 
 <h2>Education</h2>
 <ul>
-  <li><strong>January 2022 – Present:</strong> Ph.D. in Computer Science and Engineering, College of Engineering Guindy, Anna University. (Thesis on <b>Secure Medical Image Storage and Retrieval Techniques in the Cloud</b>)</li>
-  <li><strong>August 2018 – January 2020:</strong> Master of Computing, National University of Singapore.</li>
-  <li><strong>August 2014 – April 2018:</strong> B.E. in Computer Science and Engineering, College of Engineering Guindy, Anna University.</li>
+  <li><strong>College of Engineering Guindy, Anna University</strong> Ph.D. in Computer Science and Engineering (January 2022 – Present) (Thesis on <stong>Secure Medical Image Storage and Retrieval Techniques in the Cloud</strong>)</li>
+  <li><strong>National University of Singapore</strong> Master of Computing (August 2018 – January 2020)</li>
+  <li><strong>College of Engineering Guindy, Anna University</strong> B.E. in Computer Science and Engineering (August 2014 – April 2018)</li>
 </ul>
 
 
@@ -157,7 +157,7 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
     Supervised projects that resulted in more technical research articles. 
   </li>
   <li>
-    Attended and presented research at <strong>international security conferences</strong> in the UK and UAE.
+   Presented my research papers at <strong>International Security Conferences</strong> in the UK and UAE.
   </li>
   <li>
     Completed a <strong>two-week AI & Big Data Analytics in Healthcare Workshop</strong> at Taiwan Medical University during Dec 11-22, 2017.
