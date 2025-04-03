@@ -225,6 +225,9 @@ blockquote p:last-child {
     padding-right: 5rem;
     padding-left: 1.25rem;
   }
+}
+
+@media (max-width: 30em) {
   .lead {
     text-align: center;
   }
