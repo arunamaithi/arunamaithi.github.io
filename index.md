@@ -107,8 +107,9 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 <u>Arun Amaithi Rajan</u>, Vetriselvi V, Aishwarya R and Anitha Amaithi Rajan, <b>Efficient and Lightweight Framework for Confidential Medical Image Search using Edge Computing</b> <i>(IEEE CINS, UAE 2024)</i>
 <div>
     <a href="{{ site.baseurl }}/papers/cins24.pdf">
-		<i class="fa-solid fa-file-pdf"></i></a>
-	<span style="font-size:80%">Paper</span>
+		  <i class="fa-solid fa-file-pdf"></i>
+	    <span style="font-size:80%">Paper</span>
+    </a>
 </div> 
 </li>
 
@@ -141,6 +142,18 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
 
 </ul>
 
+<h2>Awards & Recognitions</h2>
+<ul>
+  <li>Received the <strong>Excellent Execution Award</strong> and <strong>Employee Achievement STAR Award</strong> at Micron for outstanding contributions.</li>
+  <li>Ranked <strong>6th</strong> in the B.E (Computer Science and Engineering) program at Anna University.</li>
+</ul>
+ 
+<h2>Certitfications</h2>
+<ul>
+  <li>Completed <strong>3 Coursera courses:</strong> Google Project Management, Quantum Information, and Principles of Secure Coding.</li>
+  <li>Completed <strong>3 NPTEL courses:</strong> Deep Learning, Quantum Computing, and Online Privacy.</li>
+</ul>
+
 <h2>Milestones and Experiences</h2>
 <ul>
   <li>
@@ -167,18 +180,5 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
   <li>
     Completed a <strong>two-week AI & Big Data Analytics in Healthcare Workshop</strong> at Taiwan Medical University during Dec 11-22, 2017.
   </li>
-</ul>
-
-
-<h2>Awards & Recognitions</h2>
-<ul>
-  <li>Received the <strong>Excellent Execution Award</strong> and <strong>Employee Achievement STAR Award</strong> at Micron for outstanding contributions.</li>
-  <li>Ranked <strong>6th</strong> in the B.E (Computer Science and Engineering) program at Anna University.</li>
-</ul>
- 
-<h2>Certitfications</h2>
-<ul>
-  <li>Completed <strong>3 Coursera courses:</strong> Google Project Management, Quantum Information, and Principles of Secure Coding.</li>
-  <li>Completed <strong>3 NPTEL courses:</strong> Deep Learning, Quantum Computing, and Online Privacy.</li>
 </ul>
 
