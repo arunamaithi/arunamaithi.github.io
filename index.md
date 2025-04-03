@@ -143,14 +143,30 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
 
 <h2>Milestones and Experiences</h2>
 <ul>
-  <li><strong>Feb 22, 2025:</strong> Presented my research article at the Doctoral Symposium of <a href="https://conf.researchr.org/track/isec-2025/isec-2025-doctoral-symposium#event-overview">ISEC 2025, NIT Kurukshetra</a>.</li>
-  <li><strong>Nov 24, 2024:</strong> Delivered an invited talk on <em>EdgeShield</em> at the <a href="https://prezentis.com/spacetech/2024/all-speakers">International Conference on Space Science and Technology, Dubai</a>.</li>
-  <li><strong>May 24, 2023:</strong> Gave an invited lecture on <em>Secure Big Data Analytics in Healthcare</em> at an Online FDP on Data Analytics & AI in Healthcare, hosted by an affiliated engineering college to Anna University.</li>
-  <li><strong>Jan 18, 2022:</strong> Conducted an expert session on <em>Introduction to Intel SGX</em> at the AICTE Short-Term Online Training Program on Cyber Security, Anna University, Chennai.</li>
-  <li>Led R&D projects, mentoring <strong>3 UG teams and 2 PG students</strong> in secure image retrieval, quantum computing, blockchain security, steganography, and LLM security.</li>
-  <li>Supervised projects that resulted in more technical research articles. 
-  <li>Attended and presented research at <strong>international security conferences</strong> in the UK and UAE.</li>
-  <li>Completed a <strong>two-week AI & Big Data Analytics in Healthcare Workshop</strong> at Taiwan Medical University during Dec 11-22, 2017.</li>
+  <li>
+    <strong>Feb 22, 2025:</strong> Presented my research article at the Doctoral Symposium of <a href="https://conf.researchr.org/track/isec-2025/isec-2025-doctoral-symposium#event-overview">ISEC 2025, NIT Kurukshetra</a>.
+  </li>
+  <li>
+    <strong>Nov 24, 2024:</strong> Delivered an invited talk on <em>EdgeShield</em> at the <a href="https://prezentis.com/spacetech/2024/all-speakers">International Conference on Space Science and Technology, Dubai</a>.
+  </li>
+  <li>
+    <strong>May 24, 2023:</strong> Gave an invited lecture on <em>Secure Big Data Analytics in Healthcare</em> at an Online FDP on Data Analytics & AI in Healthcare, hosted by an affiliated engineering college to Anna University.
+  </li>
+  <li>
+    <strong>Jan 18, 2022:</strong> Conducted an expert session on <em>Introduction to Intel SGX</em> at the AICTE Short-Term Online Training Program on Cyber Security, Anna University, Chennai.
+  </li>
+  <li>
+    Led R&D projects, mentoring <strong>3 UG teams and 2 PG students</strong> in secure image retrieval, quantum computing, blockchain security, steganography, and LLM security.
+  </li>
+  <li>
+    Supervised projects that resulted in more technical research articles. 
+  </li>
+  <li>
+    Attended and presented research at <strong>international security conferences</strong> in the UK and UAE.
+  </li>
+  <li>
+    Completed a <strong>two-week AI & Big Data Analytics in Healthcare Workshop</strong> at Taiwan Medical University during Dec 11-22, 2017.
+  </li>
 </ul>
 
 
