@@ -46,6 +46,9 @@ I have contributed to various research articles in high-end journals and confere
 
 <li>
 Secure Biometric-based Access Control System Using Blockchain With Zero Knowledge Proof <i>(Filed on 2024)</i>
+<a href="{{ site.baseurl }}/papers/ptnt.png">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+</a>
 </li>
 
 </ul>
