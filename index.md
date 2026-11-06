@@ -55,6 +55,17 @@ Secure Biometric-based Access Control System Using Blockchain With Zero Knowledg
 
 <h3>International Journals</h3>
 <ul>
+<li style="text-align:justify;margin-bottom:5px;">
+A. Aruna Gladys, R. Aishwarya, Vetriselvi V, Samuel Daphne, P. N. Baskar and <u>Arun Amaithi Rajan</u>, <b>Building Expert Small Models: A Comprehensive Survey of Model Compression, Knowledge Distillation, and Augmented Inference</b> <i>(Archives of Computational Methods in Engineering 2026)</i>
+</li>
+
+<li style="text-align:justify;margin-bottom:5px;">
+<u>Arun Amaithi Rajan</u>, Vetriselvi V, Mayank Raikwar and H. Mohamed Fuzail, <b>ESecMedIR: Efficient and Secure Dual-level Transformer based Medical Image Retrieval Framework in the Cloud</b> <i>(Computers and Electrical Engineering 2025)</i>
+</li>
+
+<li style="text-align:justify;margin-bottom:5px;">
+<u>Arun Amaithi Rajan</u>, Vetriselvi V, Ajitesh M and Praveen Kumar R, <b>Secure and Fault Tolerant Cloud Based Framework for Medical Image Storage and Retrieval in a Distributed Environment</b> <i>(Scientific Reports 2025)</i>
+</li>
 
 <li style="text-align:justify;margin-bottom:5px;">
 <u>Arun Amaithi Rajan</u>, Vetriselvi V, Mayank Raikwar and Reshma Balaraman, <b>SMedIR: Secure Medical Image Retrieval Framework with ConvNeXt-based Indexing and Searchable Encryption in the Cloud</b> <i>(Journal of Cloud Computing 2024)</i>
@@ -70,12 +81,6 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 </a>
 </li>
 
-<li style="text-align:justify;margin-bottom:5px;">
-<u>Arun Amaithi Rajan </u> and Vetriselvi V, <b>QMedShield: A Novel Quantum Chaos-based Image Encryption Scheme for Secure Medical Image Storage in the Cloud</b> <i>(Journal of Modern Optics 2024)</i>
-<a href="{{ site.baseurl }}/papers/jmo24.pdf">
-    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
-</a>
-</li>
 
 <li style="text-align:justify;margin-bottom:5px;">
 <u>Arun Amaithi Rajan </u> and Vetriselvi V, <b>Systematic survey: Secure and Privacy-preserving Big Data Analytics in Cloud</b> <i>(Journal of Computer Information Systems 2023)</i>
@@ -84,13 +89,6 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 </a>
 </li>
 
-<li style="text-align:justify;margin-bottom:5px;">
-<u>Arun Amaithi Rajan</u> and Anitha Amaithi Rajan, <b>Data Anonymization Techniques for Preserving Privacy in Public Release Data Model: A Technical Review</b> 
-  <i>(IJSRCSE 2020)</i>
-  <a href="{{ site.baseurl }}/papers/anon2020.pdf">
-    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
-  </a>
-</li>
 
 </ul>
 
