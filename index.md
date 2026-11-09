@@ -21,7 +21,7 @@ title: Home
 Hello! 
 <!-- <img src='../files/photo.jpg' style='float:top;width:80%;padding-left:15px'/> -->
 
-I'm Arun Amaithi Rajan, Senior Engineer at Qualcomm, Chennai. I did my Ph.D. at the [College of Engineering Guindy, Anna University](https://www.annauniv.edu/) under the guidance of [Dr. V. Vetriselvi](https://vetriselvivetrian.github.io/). I was part of the [Security Research Lab](https://vetriselvivetrian.github.io/security-research-lab), where my research focuses on multimedia security, encompassing image encryption, and privacy-preserving image retrieval. Further, I explore cryptographic techniques such as secure computation, encrypted data processing, blockchain technologies, zero-knowledge verification, adversarial attack-resistant learning, and with a keen interest in leveraging LLMs for security applications.
+I'm Arun Amaithi Rajan, Senior Engineer at Qualcomm, Chennai. I am part of the Hypervisor Team, contributing to the development of a secure hypervisor. I did my Ph.D. at the [College of Engineering Guindy, Anna University](https://www.annauniv.edu/) under the guidance of [Dr. V. Vetriselvi](https://vetriselvivetrian.github.io/). I was part of the [Security Research Lab](https://vetriselvivetrian.github.io/security-research-lab), where my research focuses on multimedia security, encompassing image encryption, and privacy-preserving image retrieval. Further, I explore cryptographic techniques such as secure computation, encrypted data processing, blockchain technologies, zero-knowledge verification, adversarial attack-resistant learning, and with a keen interest in leveraging LLMs for security applications.
 
 I have contributed to various research articles in high-end journals and conferences. Prior to my doctoral studies, I accumulated over two years of industry experience as a firmware security engineer at [Micron Technologies, Singapore](https://www.micron.com/). In this role, I was involved in client and enterprise NVMe SSD projects, developing secure firmware, resolving critical bugs, and creating internal tools. Additionally, I have completed a five-month internship with [PayPal's security team in Singapore](https://www.paypal.com/sg/webapps/mpp/home), where I worked on Intel SGX and Attribute-Based Encryption (ABE) techniques.
 
@@ -56,15 +56,24 @@ Secure Biometric-based Access Control System Using Blockchain With Zero Knowledg
 <h3>International Journals</h3>
 <ul>
 <li style="text-align:justify;margin-bottom:5px;">
-A. Aruna Gladys, R. Aishwarya, Vetriselvi V, Samuel Daphne, P. N. Baskar and <u>Arun Amaithi Rajan</u>, <b>Building Expert Small Models: A Comprehensive Survey of Model Compression, Knowledge Distillation, and Augmented Inference</b> <i>(Archives of Computational Methods in Engineering 2026)</i>
+Aruna Gladys A, Aishwarya R, Vetriselvi V, Daphne Samuel, Baskar P.N and <u>Arun Amaithi Rajan</u>, <b>Building Expert Small Models: A Comprehensive Survey of Model Compression, Knowledge Distillation, and Augmented Inference</b> <i>(Archives of Computational Methods in Engineering 2026)</i>
+<a href="{{ site.baseurl }}/papers/survey2026.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+  </a>
 </li>
 
 <li style="text-align:justify;margin-bottom:5px;">
 <u>Arun Amaithi Rajan</u>, Vetriselvi V, Mayank Raikwar and H. Mohamed Fuzail, <b>ESecMedIR: Efficient and Secure Dual-level Transformer based Medical Image Retrieval Framework in the Cloud</b> <i>(Computers and Electrical Engineering 2025)</i>
+<a href="{{ site.baseurl }}/papers/esec2025.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+  </a>
 </li>
 
 <li style="text-align:justify;margin-bottom:5px;">
 <u>Arun Amaithi Rajan</u>, Vetriselvi V, Ajitesh M and Praveen Kumar R, <b>Secure and Fault Tolerant Cloud Based Framework for Medical Image Storage and Retrieval in a Distributed Environment</b> <i>(Scientific Reports 2025)</i>
+<a href="{{ site.baseurl }}/papers/sfmed2025.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+  </a>
 </li>
 
 <li style="text-align:justify;margin-bottom:5px;">
