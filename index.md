@@ -105,6 +105,20 @@ Ajitesh M, Deekshith M, <u>Arun Amaithi Rajan</u>, Vetriselvi V and Hemanth D, <
 <ul style="justify-content:justify;margin-bottom:5px;">
 
 <li style="text-align:justify;margin-bottom:5px;">
+Sudeep Ravichandran, Riya Elizabeth Kuriyan, A. Aruna Gladys, Vetriselvi V and <u>Arun Amaithi Rajan</u>, <b>LogREx: Reasoning-Enabled LLM and Knowledge Graph Based Anomaly Detection in System Logs</b> <i>(Sixth Congress on Intelligent Systems 2026)</i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-18132-9_3">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+</a>
+</li>
+
+<li style="text-align:justify;margin-bottom:5px;">
+<u>Arun Amaithi Rajan</u> and Vetriselvi V, <b>Privacy or Performance? Towards Secure and Scalable Medical Image Storage and Retrieval Management in the Cloud</b> <i>(Proceedings of the 18th Innovations in Software Engineering Conference 2025)</i>
+<a href="{{ site.baseurl }}/papers/acm2025.pdf">
+    <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
+</a>
+</li>
+
+<li style="text-align:justify;margin-bottom:5px;">
 <u>Arun Amaithi Rajan</u>, Vetriselvi V, Aishwarya R and Anitha Amaithi Rajan, <b>Efficient and Lightweight Framework for Confidential Medical Image Search using Edge Computing</b> <i>(IEEE CINS, UAE 2024)</i>
 <a href="{{ site.baseurl }}/papers/cins24.pdf">
     <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:16px;padding-left:5px;"></i>
@@ -136,6 +150,7 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
 
 <h2>Awards & Recognitions</h2>
 <ul>
+  <li>Received the <strong>Go-Getters Award</strong> at Qualcomm for outstanding contributions.</li>
   <li>Received the <strong>Excellent Execution Award</strong> and <strong>Employee Achievement STAR Award</strong> at Micron for outstanding contributions.</li>
   <li>Ranked <strong>6th</strong> in the B.E (Computer Science and Engineering) program at Anna University.</li>
 </ul>
@@ -148,6 +163,12 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
 
 <h2>Milestones and Experiences</h2>
 <ul>
+  <li>
+    <strong>Apr 03, 2026:</strong> Delivered an invited talk on <em>Secure IoT Systems and Firmware Security: Bridging Artificial Intelligence and Cybersecurity</em> at VIT, Chennai</a>.
+  </li>
+  <li>
+    <strong>Mar 23, 2026:</strong> Delivered an invited talk on <em>Secure Healthcare Data Processing with Confidential Computing</em> at Vel Tech, Chennai</a>.
+  </li>
   <li>
     <strong>Feb 22, 2025:</strong> Presented my research article at the Doctoral Symposium of <a href="https://conf.researchr.org/track/isec-2025/isec-2025-doctoral-symposium#event-overview">ISEC 2025, NIT Kurukshetra</a>.
   </li>
