@@ -164,10 +164,10 @@ Vetriselvi V, Pragatheeswaran Sridharan, Thirunavukkarasu Varatharajan and <u>Ar
 <h2>Milestones and Experiences</h2>
 <ul>
   <li>
-    <strong>Apr 03, 2026:</strong> Delivered an invited talk on <em>Secure IoT Systems and Firmware Security: Bridging Artificial Intelligence and Cybersecurity</em> at VIT, Chennai</a>.
+    <strong>Apr 03, 2026:</strong> Delivered an invited talk on <em>Secure IoT Systems and Firmware Security: Bridging Artificial Intelligence and Cybersecurity</em> at VIT, Chennai.
   </li>
   <li>
-    <strong>Mar 23, 2026:</strong> Delivered an invited talk on <em>Secure Healthcare Data Processing with Confidential Computing</em> at Vel Tech, Chennai</a>.
+    <strong>Mar 23, 2026:</strong> Delivered an invited talk on <em>Secure Healthcare Data Processing with Confidential Computing</em> at Vel Tech, Chennai.
   </li>
   <li>
     <strong>Feb 22, 2025:</strong> Presented my research article at the Doctoral Symposium of <a href="https://conf.researchr.org/track/isec-2025/isec-2025-doctoral-symposium#event-overview">ISEC 2025, NIT Kurukshetra</a>.
